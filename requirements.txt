@@ -6,6 +6,9 @@ notebook~=7.6.0
 # AI extension for JupyterLite / JupyterLab / Notebook 7
 jupyterlite-ai
 
+# Xeus / WebAssembly kernels, e.g. C++
+jupyterlite-xeus
+
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.8.0
 
